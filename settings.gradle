@@ -1,0 +1,2 @@
+include ':app', ':huntthemusic'
+rootProject.name='MusicHunter'
